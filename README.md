@@ -1,8 +1,8 @@
 -  Hi, I’m @sheshardrinivas.
 -  I’m interested in programing.
--  I’m currently learning python.
--  I’m looking to collaborate on AI.
--  Fun fact: vim is better than vscode.
+-  I’m currently learning electron with Javascript.
+-  I’m looking to collaborate on AI projects.
+-  Fun fact: I use cursor ai.
 
 
 
