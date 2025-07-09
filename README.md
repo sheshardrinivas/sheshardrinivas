@@ -2,7 +2,7 @@
 -  I’m interested in programing.
 -  I’m currently learning electron with Javascript.
 -  I’m looking to collaborate on AI projects.
--  Fun fact: I use cursor ai.
+-  Fun fact: Nvim is better!
 
 
 
